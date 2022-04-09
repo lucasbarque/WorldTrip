@@ -1,7 +1,12 @@
-import type { NextPage } from 'next'
+import { Flex } from "@chakra-ui/react";
+import Banner from "../components/Banner";
+import Header from "../components/Header";
 
-const Home: NextPage = () => {
-  return <h1>teste</h1>
+export default function Home() {
+  return (
+    <Flex direction="column">
+      <Header />
+      <Banner />
+    </Flex>
+  )
 }
-
-export default Home
