@@ -12,7 +12,7 @@
 
 ## 🧐 Sobre o Projeto
 
-World Trip é um site de viagens, com várias dicas e informações para viajantas.
+World Trip é um site de viagens, com várias dicas e informações para viajantes.
 
 ## 💻 Rodando o Projeto
 
