@@ -26,7 +26,7 @@ export default function Banner() {
             5 continents, <br /> infinites possibilities
           </Heading>
           <Text color="gray.300" mt="5" fontSize={["0.8rem", "xl"]} maxW={["100%", "100%", "100%", "550px"]}>
-            Chegou a hora de tirar do papel a viagem que você sempre sonhou.
+            The time has come to take the trip you've always dreamed of.
           </Text>
         </div>
 

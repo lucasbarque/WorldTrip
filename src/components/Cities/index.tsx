@@ -5,7 +5,7 @@ export default function Cities() {
   return (
     <>
       <Heading fontWeight="500" fontSize={["2xl", "4xl"]} mb="10" color="gray.700">
-        Cidades +100
+        Cities +100
       </Heading>
       <Grid
         templateColumns={["1fr", "1fr 1fr", "repeat(3, 1fr)", "repeat(4, 1fr)"]}

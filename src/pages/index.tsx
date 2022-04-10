@@ -30,7 +30,7 @@ export default function Home() {
         mb={["5", "14"]}
         fontSize={["lg", "3xl", "4xl"]}
       >
-        Vamos nessa?<br /> Então escolha seu continente
+        Let's go?<br /> So choose your continent
       </Heading>
 
       <Slider />

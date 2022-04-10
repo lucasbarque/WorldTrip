@@ -9,9 +9,7 @@ export default function Content() {
         color="gray.700"
         textAlign="justify"
       >
-        A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia,
-        a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio,
-        o Cáucaso, e o mar Negro a sudeste
+        Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia.
       </Text>
 
       <Infos />

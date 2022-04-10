@@ -14,19 +14,19 @@ export default function Subjects() {
       gap={[1, 5]}
     >
       <GridItem>
-        <Subject icon="cocktail" text="vida noturna" />
+        <Subject icon="cocktail" text="night life" />
       </GridItem>
       <GridItem>
-        <Subject icon="surf" text="praia" />
+        <Subject icon="surf" text="beach" />
       </GridItem>
       <GridItem>
-        <Subject icon="building" text="moderno" />
+        <Subject icon="building" text="modern" />
       </GridItem>
       <GridItem>
-        <Subject icon="museum" text="clássico" />
+        <Subject icon="museum" text="classic" />
       </GridItem>
       <GridItem colSpan={[2, 2, 2, 1]}>
-        <Subject icon="earth" text="e mais..." />
+        <Subject icon="earth" text="and more..." />
       </GridItem>
     </Grid>
   )

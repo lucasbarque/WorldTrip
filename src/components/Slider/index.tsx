@@ -33,7 +33,7 @@ export default function Slider() {
             <Link href="/continent/europe">
               <a>
                 <Heading fontSize={["3xl", "4xl", "5xl"]} color="gray.100" fontWeight="bold">Europe</Heading>
-                <Text fontWeight="bold" color="gray.300" fontSize={["0.8rem", "1xl", "2xl"]} mt={["2", "4"]}>O continente mais antigo</Text>
+                <Text fontWeight="bold" color="gray.300" fontSize={["0.8rem", "1xl", "2xl"]} mt={["2", "4"]}>The oldest continent</Text>
               </a>
             </Link>
           </Flex>
@@ -55,7 +55,7 @@ export default function Slider() {
             <Link href="/continent/europe">
               <a>
                 <Heading fontSize={["3xl", "4xl", "5xl"]} color="gray.100" fontWeight="bold">Europe</Heading>
-                <Text fontWeight="bold" color="gray.300" fontSize={["0.8rem", "1xl", "2xl"]} mt={["2", "4"]}>O continente mais antigo</Text>
+                <Text fontWeight="bold" color="gray.300" fontSize={["0.8rem", "1xl", "2xl"]} mt={["2", "4"]}>The oldest continent</Text>
               </a>
             </Link>
           </Flex>
